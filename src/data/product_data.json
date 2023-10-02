@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Premium Leather Jacket",
+      "price": 119.99,
+      "description": "The finest quality of Bulgarian grass fed leather, a hand made product",
+      "image": "/product-images/cloth2.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Cotton Poncho",
+      "price": 49.99,
+      "description": "A stylish cotton poncho for your everyday comfort, ethically farmed",
+      "image": "/product-images/cloth1.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Denim Jeans",
+      "price": 39.99,
+      "description": "Classic denim jeans for a timeless look."
+    }
+  ]
+}
